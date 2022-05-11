@@ -1,0 +1,10 @@
+E:\umut\TEZ\Rontgen\Rontgen\bin\Debug\Rontgen.exe.config
+E:\umut\TEZ\Rontgen\Rontgen\bin\Debug\Rontgen.exe
+E:\umut\TEZ\Rontgen\Rontgen\bin\Debug\Rontgen.pdb
+E:\umut\TEZ\Rontgen\Rontgen\obj\Debug\Rontgen.csprojAssemblyReference.cache
+E:\umut\TEZ\Rontgen\Rontgen\obj\Debug\Rontgen.Form1.resources
+E:\umut\TEZ\Rontgen\Rontgen\obj\Debug\Rontgen.Properties.Resources.resources
+E:\umut\TEZ\Rontgen\Rontgen\obj\Debug\Rontgen.csproj.GenerateResource.cache
+E:\umut\TEZ\Rontgen\Rontgen\obj\Debug\Rontgen.csproj.CoreCompileInputs.cache
+E:\umut\TEZ\Rontgen\Rontgen\obj\Debug\Rontgen.exe
+E:\umut\TEZ\Rontgen\Rontgen\obj\Debug\Rontgen.pdb
